@@ -1,5 +1,5 @@
 # Extrovert Public Speaking
 
-![image](ExtrovertPublicSpeaking.png)
+![image](ExtrovertPublicSpeaking.jpg)
 
 Additional details reference : https://github.com/alpaddesai/LifeStyle
